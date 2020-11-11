@@ -1,5 +1,6 @@
 import React from "react";
 
+// Note Function
 function Note() {
   return (
     <div className = "note">

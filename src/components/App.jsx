@@ -3,6 +3,8 @@ import Header from "./Header";
 import Footer from "./Footer";
 import Note from "./Note";
 
+// Main App Function for React
+
 function App() {
   return (
     <div>
